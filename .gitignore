@@ -1,0 +1,6 @@
+#Ignore design directory
+design
+#Ignore anima directory
+.anima/
+#Ignore vscode directory
+.vscode/
